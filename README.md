@@ -15,7 +15,11 @@ HTML
 ## Screenshot html
 ![screenshot](..assets\images\screenshot1.png)
 ![screenshot](..assets\images\screenshot2.png)
+<<<<<<< HEAD
 $$<--If screenshots do not load refer to asset folder images to see screenshots-->$$
+=======
+$$<--If sceenshots do not load refer to asset folder images to see screenshots-->$$
+>>>>>>> 918452e3cf854894a08697fca20b80f018173e4e
 
   refer to (..assets\images\screenshot1.png) for comparison 
   refer to(..assets\images\screenshot2.png) for refactored code 
@@ -29,7 +33,11 @@ $$<--If screenshots do not load refer to asset folder images to see screenshots-
 ## Screenshot CSS
 ![screenshot](..assets\images\screenshot3css.png)
 ![screenshot](..assets\images\screenshot4css.png)
+<<<<<<< HEAD
 $$<--If screenshots do not load refer to asset folder images to see screenshots-->$$
+=======
+$$<--If sceenshots do not load refer to asset folder images to see screenshots-->$$
+>>>>>>> 918452e3cf854894a08697fca20b80f018173e4e
 
  refer to (..assets\images\screenshot3css.png) for comparison 
  refer to (..assets\images\screenshot4css.png) for cleaned CSS
