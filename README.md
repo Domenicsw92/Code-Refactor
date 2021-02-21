@@ -13,8 +13,8 @@ HTML
     -changed <div> tag to create <footer> 
 
 ## Screenshot html
-![screenshot](.assets\images\screenshot1.png)
-![screenshot](.assets\images\screenshot2.png)
+![screenshot](assets\images\screenshot1.png)
+![screenshot](assets\images\screenshot2.png)
 
   refer to (..assets\images\screenshot1.png) for comparison 
   refer to(..assets\images\screenshot2.png) for refactored code 
@@ -26,8 +26,8 @@ HTML
    -cleaned css file by deleteing unneeded and repeated css class styles bring the line code form 200 to about 130
 
 ## Screenshot css
-![screenshot](.assets\images\screenshot3css.png)
-![screenshot](.assets\images\screenshot4css.png)
+![screenshot](assets\images\screenshot3css.png)
+![screenshot](assets\images\screenshot4css.png)
 
 
  refer to (..assets\images\screenshot3css.png) for comparison 
