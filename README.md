@@ -13,14 +13,14 @@ HTML
     -changed <div> tag to create <footer> 
 
 ## Screenshot html
-![screenshot](..assets\images\screenshot1.png)
-![screenshot](..assets\images\screenshot2.png)
+![screenshot](./assets/images/screenshot1.png)
+![screenshot](./assets/images/screenshot2.png)
 
 $$<--If screenshots do not load refer to asset folder images to see screenshots-->$$
 
 
-  refer to (..assets\images\screenshot1.png) for comparison 
-  refer to(..assets\images\screenshot2.png) for refactored code 
+  refer to (./assets/images/screenshot1.png) for comparison 
+  refer to(./assets/images/screenshot2.png) for refactored code 
   
   CSS 
    -restructured class tags in <header> CSS to include new <nav> tag
@@ -29,13 +29,13 @@ $$<--If screenshots do not load refer to asset folder images to see screenshots-
    -cleaned CSS file by deleting unneeded and repeated CSS class styles bring the line code form 200 to about 130
 
 ## Screenshot CSS
-![screenshot](..assets\images\screenshot3css.png)
-![screenshot](..assets\images\screenshot4css.png)
+![screenshot](./assets/images/screenshot3css.png)
+![screenshot](./assets/images/screenshot4css.png)
 
 $$<--If screenshots do not load refer to asset folder images to see screenshots-->$$
 
- refer to (..assets\images\screenshot3css.png) for comparison 
- refer to (..assets\images\screenshot4css.png) for cleaned CSS
+ refer to (./assets/images/screenshot3css.png) for comparison 
+ refer to (./assets/images/screenshot4css.png) for cleaned CSS
 
 
 
